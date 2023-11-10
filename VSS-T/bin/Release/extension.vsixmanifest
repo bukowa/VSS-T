@@ -1,6 +1,6 @@
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011">
   <Metadata>
-    <Identity Id="VSS_T.f6b63a3b-121b-4567-9672-eec177052286" Version="1.0" Language="en-US" Publisher="Company" />
+    <Identity Id="VSS_T.f6b63a3b-121b-4567-9672-eec177052286" Version="1.1" Language="en-US" Publisher="Company" />
     <DisplayName>VSS_T</DisplayName>
     <Description>Empty VSIX Project.</Description>
   </Metadata>

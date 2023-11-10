@@ -2,7 +2,7 @@
   "$schema": "vscode://schemas/color-theme",
   "type": "dark",
   "colors": {
-    "foreground": "#101010",
+    "foreground": "#cccccc",
     "focusBorder": "#007fd4",
     "selection.background": "#256aa7",
     "scrollbar.shadow": "#000000",
@@ -222,7 +222,7 @@
     "peekViewTitle.background": "#1e1e1e",
     "peekViewTitleDescription.foreground": "#ccccccb3",
     "peekViewTitleLabel.foreground": "#ffffff",
-    "icon.foreground": "#101010",
+    "icon.foreground": "#cccccc",
     "checkbox.background": "#3c3c3c",
     "checkbox.foreground": "#cccccc",
     "checkbox.border": "#00000000",
@@ -241,7 +241,7 @@
     "editorGroup.emptyBackground": "#101010",
     "panelSection.border": "#80808059",
     "statusBarItem.activeBackground": "#FFFFFF25",
-    "settings.headerForeground": "#101010",
+    "settings.headerForeground": "#cccccc",
     "settings.focusedRowBackground": "#ffffff07",
     "walkThrough.embeddedEditorBackground": "#00000050",
     "breadcrumb.activeSelectionForeground": "#e0e0e0",
@@ -345,7 +345,7 @@
       "name": "punctuation.definition",
       "scope": "punctuation.definition.string.begin,punctuation.definition.string.end",
       "settings": {
-        "foreground": "#98c379"
+        "foreground": "#0076ec"
       }
     },
     {
@@ -380,7 +380,7 @@
       "name": "inserted.diff",
       "scope": "markup.inserted.diff",
       "settings": {
-        "foreground": "#98c379"
+        "foreground": "#0076ec"
       }
     },
     {
@@ -972,7 +972,7 @@
       "name": "Strings",
       "scope": "string",
       "settings": {
-        "foreground": "#98c379"
+        "foreground": "#0076ec"
       }
     },
     {
@@ -1135,14 +1135,14 @@
       "name": "[VSCODE-CUSTOM] Markdown Inline Raw",
       "scope": "markup.inline.raw.markdown",
       "settings": {
-        "foreground": "#98c379"
+        "foreground": "#0076ec"
       }
     },
     {
       "name": "[VSCODE-CUSTOM] Markdown Inline Raw",
       "scope": "markup.inline.raw.string.markdown",
       "settings": {
-        "foreground": "#98c379"
+        "foreground": "#0076ec"
       }
     },
     {
@@ -1274,7 +1274,7 @@
       "name": "Source Json Meta Structure Dictionary Json > Value Json > String Quoted Json,source Json Meta Structure Array Json > Value Json > String Quoted Json,source Json Meta Structure Dictionary Json > Value Json > String Quoted Json > Punctuation,source Json Meta Structure Array Json > Value Json > String Quoted Json > Punctuation",
       "scope": "source.json meta.structure.dictionary.json > value.json > string.quoted.json,source.json meta.structure.array.json > value.json > string.quoted.json,source.json meta.structure.dictionary.json > value.json > string.quoted.json > punctuation,source.json meta.structure.array.json > value.json > string.quoted.json > punctuation",
       "settings": {
-        "foreground": "#98c379"
+        "foreground": "#0076ec"
       }
     },
     {
@@ -1617,7 +1617,7 @@
         "keyword.other.template.begin"
       ],
       "settings": {
-        "foreground": "#98c379"
+        "foreground": "#0076ec"
       }
     },
     {
@@ -1626,7 +1626,7 @@
         "keyword.other.template.end"
       ],
       "settings": {
-        "foreground": "#98c379"
+        "foreground": "#0076ec"
       }
     },
     {
@@ -1635,7 +1635,7 @@
         "keyword.other.substitution.begin"
       ],
       "settings": {
-        "foreground": "#98c379"
+        "foreground": "#0076ec"
       }
     },
     {
@@ -1644,7 +1644,7 @@
         "keyword.other.substitution.end"
       ],
       "settings": {
-        "foreground": "#98c379"
+        "foreground": "#0076ec"
       }
     },
     {
@@ -1773,7 +1773,7 @@
         "source.ini"
       ],
       "settings": {
-        "foreground": "#98c379"
+        "foreground": "#0076ec"
       }
     },
     {
@@ -1827,7 +1827,7 @@
         "meta.definition.class.inherited.classes.groovy"
       ],
       "settings": {
-        "foreground": "#98c379"
+        "foreground": "#0076ec"
       }
     },
     {
@@ -1933,7 +1933,7 @@
         "beginning.punctuation.definition.quote.markdown.xi"
       ],
       "settings": {
-        "foreground": "#98c379"
+        "foreground": "#0076ec"
       }
     },
     {
